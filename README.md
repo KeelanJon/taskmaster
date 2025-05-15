@@ -13,6 +13,10 @@ Complete tasks, earn gold coins, and **spend your hard-earned motivation** on re
 
 Taskmaster is a simple, fun twist on the classic to-do list. Designed to make getting things done _less boring and more rewarding_.
 
+At the moment the features are pretty simple, with more interesting features coming soon. For now, add a task, click to complete the task,
+earn coins, and feel good when you earn yourself a trip to the kitchen
+for a coffee.
+
 Features include:
 
 - ✅ Add and complete tasks
