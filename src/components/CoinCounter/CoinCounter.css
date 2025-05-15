@@ -1,0 +1,16 @@
+.coin-counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.label {
+    font-size: 2.5rem;
+    margin-right: 0.5rem;
+}
+
+.counter { 
+    margin-right: 2rem;
+}
